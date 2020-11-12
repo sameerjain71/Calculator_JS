@@ -1,0 +1,12 @@
+{
+        total:5,
+    
+        records: [
+            { recid: 1,   type: 'Fixed', notional: '1000000',  mdate: '12/31/2021', currency:'USD', coupon:'1.75' },
+            { recid: 2,   type: 'Fixed', notional: '1000000',  mdate: '6/31/2022', currency:'USD', coupon:'1.75' },
+            { recid: 3,   type: 'Fixed', notional: '1000000',  mdate: '12/31/2022', currency:'USD', coupon:'1.75' },
+            { recid: 4,   type: 'Fixed', notional: '1000000',  mdate: '6/31/2023', currency:'USD', coupon:'1.75' },
+            { recid: 5,   type: 'Principal', notional: '1000000',  mdate: '6/31/2023', currency:'USD' },
+            
+                    ]
+}

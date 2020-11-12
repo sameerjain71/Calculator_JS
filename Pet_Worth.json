@@ -1,0 +1,15 @@
+{
+        total:8,
+    
+        records: [
+            { recid: 1,   type: 'Income', notional: '350000',  mdate: '6/1/2021', currency:'USD'},
+            { recid: 2,   type: 'Income', notional: '350000',  mdate: '9/1/2021', currency:'USD'},
+            { recid: 3,   type: 'Income', notional: '400000',  mdate: '12/12021', currency:'USD'},
+            { recid: 4,   type: 'Expense', notional: '120000',  mdate: '2/1/2021', currency:'USD'},
+            { recid: 5,   type: 'Expense', notional: '140000',  mdate: '4/1/2021', currency:'USD'},
+            { recid: 6,   type: 'Expense', notional: '120000',  mdate: '7/1/2021', currency:'USD'},
+            { recid: 7,   type: 'Expense', notional: '100000',  mdate: '10/1/2021', currency:'USD'},
+            { recid: 8,   type: 'Fees', notional: '275000',  mdate: '12/31/2020', currency:'USD'},
+            
+                    ]
+}

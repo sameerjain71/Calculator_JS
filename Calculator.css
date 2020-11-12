@@ -1,0 +1,137 @@
+#header
+{
+    margin: 10px auto ;
+}
+
+.leglabel
+{
+    text-align:center;
+}
+#packagelabel
+{
+    margin: auto auto auto 10px ;
+    position: absolute ;
+    top: 65px ;
+
+}
+#savepackagebutton
+{
+    float:left ;
+    margin: auto auto auto 5px ;
+    top: 65px ;
+    left: 190px ;
+    position: absolute ;
+}
+
+#loadpackagebutton
+{
+    position: absolute ;
+    top: 65px ;
+    left: 320px ;
+    margin: auto auto auto 5px ;
+
+}
+
+#addlegbutton
+{
+    position: absolute ;
+    top: 65px ;
+    left: 450px ;
+    margin: auto auto auto 5px ;
+
+}
+
+#legcontainer
+{
+    
+    height:1000px ;
+    width: 10000px ;
+    background-color: #9DD2EA ;
+    margin: 10px auto ;
+    border-radius:10px;
+    box-shadow:0px 4px 0px 0px #009de4 ;
+    position:relative ;
+    top:35px ;
+}
+
+.leg
+{
+    width: 350px ;
+    height:800px ;
+    margin-top:6px ;
+    outline-style:dotted ;
+    outline-color:black ;
+    outline-width:2px ;    
+}
+
+
+.label
+{
+    padding:0px 0px 0px 5px ;
+    display:inline-block ;
+    width: 150px ;
+    font-size: 12px ;
+
+}
+.field
+{
+    
+    width: 150px ;
+    margin:0px 0px 0px 0px ;
+    padding: 0px ;
+    display:inline-block ;
+    font-size: 12px ;
+    
+}
+
+.marketparameters
+{
+    margin:10px 10px 10px 10px ;
+    padding-top:10px ;
+    background-color:lightgrey ;
+}
+
+.metrics
+{
+     margin:10px 10px 10px 10px ;
+    padding-top:10px ;
+    background-color:blanchedalmond;
+  
+}
+
+.assetparameters
+{
+    margin:10px 10px 10px 10px ;
+    padding-top:10px ;
+    background-color:lightgreen;
+}
+
+#assetview
+{
+    background-color:white;
+    border-radius:2px;
+    outline-style: dotted ;
+}
+
+
+#assettypelabel
+{
+    width: 50px ;
+    margin: 10px auto ;
+    padding:10px 10px 10px 10px ;   
+
+}
+
+#assettype
+{
+    width:160px ;
+    font-size: 12px ;
+  
+}
+
+#buildingname
+{
+    width:160px ;
+    font-size: 12px ;
+    
+}
